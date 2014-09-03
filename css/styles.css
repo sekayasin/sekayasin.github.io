@@ -179,8 +179,8 @@ PAGE: CONTACT
 
 #overlay img {
     margin-top: 10%;
-    width: 500px;
-    height: 500px;
+    width: 200px;
+    height: 200px;
 }
 
 #overlay p {
@@ -260,13 +260,25 @@ PAGE: PORTFOLIO-WORK
         clear: left;
     }
 
+    #overlay img {
+        margin-top: 10%;
+        width: 500px;
+        height: 500px;
+    }
+
+    #overlay p {
+        color: white;
+    }
+
 /************************************
 PAGE: ABOUT
 *************************************/
-.profile-photo {
-    float: left;
-    margin: 0 5% 80px 0;
-}
+    .profile-photo {
+        float: left;
+        margin: 0 5% 80px 0;
+    }
+
+
 
 }
 
