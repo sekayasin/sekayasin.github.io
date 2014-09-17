@@ -178,9 +178,8 @@ PAGE: CONTACT
 }
 
 #overlay img {
-    margin-top: 10%;
-    width: 200px;
-    height: 200px;
+    margin-top: 20%;
+    max-width: 85%;
 }
 
 #overlay p {
@@ -262,8 +261,7 @@ PAGE: PORTFOLIO-WORK
 
     #overlay img {
         margin-top: 10%;
-        width: 500px;
-        height: 500px;
+        max-width: 45%;
     }
 
     #overlay p {
